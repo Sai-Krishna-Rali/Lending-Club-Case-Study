@@ -1,5 +1,7 @@
 # Lending Club Case Study
-> In this case study, the objective is to conduct Exploratory Data Analysis (EDA) to gain a better understanding of how consumer attributes and loan attributes influence the likelihood of loan default in a consumer finance company.
+> A consumer finance company that caters to urban customers must evaluate loan applications to decide whether to approve them or not. This decision involves assessing two types of risks:
+When an applicant is deemed likely to repay the loan, rejecting the application means the company loses potential business.
+Conversely, if the applicant is likely to default and not repay the loan, approving it could result in financial losses for the company.
 
 
 ## Table of Contents
