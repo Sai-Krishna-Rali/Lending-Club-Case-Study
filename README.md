@@ -19,7 +19,12 @@ Conversely, if the applicant is likely to default and not repay the loan, approv
 - Additionally, a data dictionary has been provided, offering descriptions and explanations for the attributes or variables present in the dataset.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+## Approach
+- We have taken the loan dataset and imported it into a pandas DataFrame, where we performed data cleansing tasks such as handling missing values, outliers, standardization, and removing redundant information.
+- Subsequently, we proceeded to systematically analyze the data to determine the key factors contributing to loan defaults.
+- Our analytical process involved various stages, including univariate analysis, segmented univariate analysis, bivariate analysis, and ultimately, an examination of derived metrics. 
+- Throughout each of these stages, we pinpointed the variables that exhibited correlations with loan defaults, and we thoroughly documented all our findings.
+  
 ## Conclusions
 - Conclusion 1 from the analysis
 - Conclusion 2 from the analysis
