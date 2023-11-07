@@ -26,20 +26,14 @@ Conversely, if the applicant is likely to default and not repay the loan, approv
 - Throughout each of these stages, we pinpointed the variables that exhibited correlations with loan defaults, and we thoroughly documented all our findings.
   
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Customers who opt for a 60-month loan term and later default tend to have borrowed larger amounts compared to those with a 36-month loan term. 
+- Highly experienced borrowers with higher annual incomes are more likely to repay their loans.
+- Borrowers with mortgages or those living in rental houses, with high interest rates and larger loan amounts, are more likely to default.
+- Loans taken for housing purposes with more inquiries in the last 6 months are more likely to default.
+- Loans taken for debt consolidation with more open credit accounts are more likely to default.
+- Credit card users with higher revolving balance utilization are more likely to default.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
