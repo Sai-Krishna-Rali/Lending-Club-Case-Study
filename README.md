@@ -1,12 +1,12 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> In this case study, the objective is to conduct Exploratory Data Analysis (EDA) to gain a better understanding of how consumer attributes and loan attributes influence the likelihood of loan default in a consumer finance company.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* Problem Statement
+* EDA - Approach
+* Cleaning the Data
+* Analysing the Data (Univarite Analysis, Segemented Univariate Analysis, Bivariate Analysis, Dervied Metric Analysis)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
