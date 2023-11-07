@@ -1,6 +1,6 @@
 # Lending Club Case Study
 > A consumer finance company that caters to urban customers must evaluate loan applications to decide whether to approve them or not. This decision involves assessing two types of risks:
-When an applicant is deemed likely to repay the loan, rejecting the application means the company loses potential business.
+> When an applicant is deemed likely to repay the loan, rejecting the application means the company loses potential business.
 Conversely, if the applicant is likely to default and not repay the loan, approving it could result in financial losses for the company.
 
 
