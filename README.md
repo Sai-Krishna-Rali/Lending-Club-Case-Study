@@ -36,7 +36,7 @@ Conversely, if the applicant is likely to default and not repay the loan, approv
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Acknowledgements
-We have completed a project as part of an AI/ML Executive Program with IIT Bangalore
+We have worked on this project as part of an AI/ML Executive Program with IIT Bangalore
 
 
 ## Contact
