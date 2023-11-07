@@ -1,4 +1,4 @@
-![image](https://github.com/Sai-Krishna-Rali/Lending-Club-Case-Study/assets/148838909/3678a6de-f897-4b08-a95c-88c8fcf3c49e)# Lending Club Case Study
+# Lending Club Case Study
 > A consumer finance company that caters to urban customers must evaluate loan applications to decide whether to approve them or not. This decision involves assessing two types of risks:
 > When an applicant is deemed likely to repay the loan, rejecting the application means the company loses potential business.
 Conversely, if the applicant is likely to default and not repay the loan, approving it could result in financial losses for the company.
