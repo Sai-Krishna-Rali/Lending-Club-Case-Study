@@ -18,9 +18,6 @@ Conversely, if the applicant is likely to default and not repay the loan, approv
 - WWe have been given a loan dataset that includes comprehensive information about all loans disbursed between 2007 and 2011. 
 - Additionally, a data dictionary has been provided, offering descriptions and explanations for the attributes or variables present in the dataset.
 
-
-- What is the dataset that is being used?
-
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
