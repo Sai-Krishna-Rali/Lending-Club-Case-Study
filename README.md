@@ -36,14 +36,11 @@ Conversely, if the applicant is likely to default and not repay the loan, approv
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+We have completed a project as part of an AI/ML Executive Program with IIT Bangalore
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by https://github.com/Sai-Krishna-Rali - feel free to contact me!
 
 
 <!-- Optional -->
