@@ -1,4 +1,4 @@
-# Lending Club Case Study
+![image](https://github.com/Sai-Krishna-Rali/Lending-Club-Case-Study/assets/148838909/3678a6de-f897-4b08-a95c-88c8fcf3c49e)# Lending Club Case Study
 > A consumer finance company that caters to urban customers must evaluate loan applications to decide whether to approve them or not. This decision involves assessing two types of risks:
 > When an applicant is deemed likely to repay the loan, rejecting the application means the company loses potential business.
 Conversely, if the applicant is likely to default and not repay the loan, approving it could result in financial losses for the company.
@@ -13,9 +13,12 @@ Conversely, if the applicant is likely to default and not repay the loan, approv
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
+- The primary objective of this case study is to pinpoint high-risk loan applicants to minimize the number of such risky loans and consequently reduce credit losses. 
+- To achieve this, we must identify the key factors or variables that strongly correlate with loan defaults, serving as reliable indicators of potential default.
+- WWe have been given a loan dataset that includes comprehensive information about all loans disbursed between 2007 and 2011. 
+- Additionally, a data dictionary has been provided, offering descriptions and explanations for the attributes or variables present in the dataset.
+
+
 - What is the dataset that is being used?
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
