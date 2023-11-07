@@ -40,7 +40,7 @@ We have completed a project as part of an AI/ML Executive Program with IIT Banga
 
 
 ## Contact
-Created by https://github.com/Sai-Krishna-Rali - feel free to contact me!
+Created by https://github.com/Sai-Krishna-Rali and Manjiri Gajmal- feel free to contact us!
 
 
 <!-- Optional -->
